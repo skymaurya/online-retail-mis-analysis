@@ -150,13 +150,13 @@ The MIS report includes:
 
 ## 📊 MIS Report Preview
 
-*(image/mis_reporting.png)*
+![Report](image/mis_reporting.png)
 
 ---
 
 ## 📊 Dashboard Preview
 
-*(image/dashboard.png)*
+![Dashboard](image/dashboard.png)
 
 ---
 
