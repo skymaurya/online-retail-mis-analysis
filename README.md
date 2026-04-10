@@ -150,13 +150,13 @@ The MIS report includes:
 
 ## 📊 MIS Report Preview
 
-*(Add MIS report screenshot here)*
+*(image/mis_reporting.png)*
 
 ---
 
 ## 📊 Dashboard Preview
 
-*(Add final dashboard screenshot here)*
+*(image/dashboard.png)*
 
 ---
 
@@ -164,7 +164,7 @@ The MIS report includes:
 
 For deeper understanding of logic and implementation:
 
-👉 [View MIS Report Details](docs/mis-report-details.md)
+👉 [View MIS Report Details](docs/mis_report_details.md)
 
 ---
 
