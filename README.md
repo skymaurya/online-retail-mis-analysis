@@ -3,6 +3,20 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](image/dashboard.png)
+
+---
+
+## 🚀 Project Highlights
+
+- Built using real-world dataset (~500K records)  
+- End-to-end MIS reporting workflow  
+- Dynamic 7/14 day trend analysis  
+- Power Pivot + DAX based modeling
+
+---
 ## 📌 Project Overview
 
 This project simulates a real-world **MIS (Management Information System) reporting workflow** using transactional retail data.
@@ -151,12 +165,6 @@ The MIS report includes:
 ## 📊 MIS Report Preview
 
 ![Report](image/mis_reporting.png)
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard](image/dashboard.png)
 
 ---
 
